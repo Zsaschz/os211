@@ -27,4 +27,4 @@ ZCZC W02 100 L02 ZOOM related : (8/3)
 ZCZC W02 40 L10 Assignment (General) : GnuPG Key Pair related (generate, import, etc.)
 ZCZC W02 30 L10 Assignment (General) : Make SHA256SUM
 ZCZC W02 15 L10 Assignment (General) : Sign SHA256SUM
-ZCZC W02 45 L10 Assignment (General : Visit and pick 3 out of my 10 closest neighbors
+ZCZC W02 45 L10 Assignment (General) : Visit and pick 3 favourite website
