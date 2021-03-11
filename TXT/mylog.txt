@@ -28,4 +28,5 @@ ZCZC W02 40 L13 Assignment #3 : GnuPG Key Pair related (generate, import, etc.)
 ZCZC W02 30 L20 Assignment #10 : Make SHA256SUM
 ZCZC W02 15 L20 Assignment #10 : Sign SHA256SUM
 ZCZC W02 45 L16 Assignment #6 : Visit and pick 3 favourite website
+ZCZC W02 20 L15 Assignment #5 : Export Pubkey (mypubkey.txt)
 ZCZC W02 30 L18 Assignment #8 : Copy and add bash script (myscript.sh)
