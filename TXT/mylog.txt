@@ -30,3 +30,4 @@ ZCZC W02 20 L15 Assignment #5 : Export Pubkey (mypubkey.txt)
 ZCZC W02 30 L18 Assignment #8 : Copy and add bash script (myscript.sh)
 ZCZC W02 10 L14 Assignment #4 : Import public Key from https://osp4diss.vlsm.org/ETC/ospubkey.txt
 ZCZC W02 60 L11 Assignment #1 : Read OSC10 chapter 16 and chapter 17 (using the slides provided)
+ZCZC W02 60 L12 Assignment #2 : Try Demo Week 2
