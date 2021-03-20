@@ -42,3 +42,4 @@ ZCZC W03 90 L17 Assignment #7 : Download W03.tar.bz2 to W03-FUSE.txt”
 ZCZC W03 20 L18 Assignment #8 : Update myscript.sh
 ZCZC W03 15 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W03 30 L22 YouTube: study, listening music
+ZCZC W03 20 L14 Assignment #4 : Visit and pick 3 favourite website
