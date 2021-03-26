@@ -44,3 +44,9 @@ ZCZC W03 15 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W03 30 L22 YouTube: study, listening music
 ZCZC W03 20 L14 Assignment #4 : Visit and pick 3 favourite website
 ZCZC W03 60 L15 Assignment #5 : Top 10 Links This Week
+ZCZC W04 60 L11 Assignment #1 : Read OSC10 (chapter 9)
+ZCZC W04 70 L12 Assignment #2 : Demos Week 04
+ZCZC W04 20 L15 Assignment #5 : Update mylog.txt
+ZCZC W04 60 L16 Assignment #6 : Download WEEK04-TLPI.txt
+ZCZC W04 20 L17 Assignment #7 : Update bash script
+ZCZC W04 20 L18 Assignment #8 : Make SHA256SUM and sign it
