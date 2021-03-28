@@ -50,3 +50,5 @@ ZCZC W04 20 L15 Assignment #5 : Update mylog.txt
 ZCZC W04 60 L16 Assignment #6 : Download WEEK04-TLPI.txt
 ZCZC W04 20 L17 Assignment #7 : Update bash script
 ZCZC W04 20 L18 Assignment #8 : Make SHA256SUM and sign it
+ZCZC W04 30 L13 Assignment #3 : Update myrank.txt for Week 3
+ZCZC W04 30 L14 Assignment #4 : Top 10 Links this week
