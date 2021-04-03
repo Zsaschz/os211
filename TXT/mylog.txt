@@ -52,3 +52,9 @@ ZCZC W04 20 L17 Assignment #7 : Update bash script
 ZCZC W04 20 L18 Assignment #8 : Make SHA256SUM and sign it
 ZCZC W04 30 L13 Assignment #3 : Update myrank.txt for Week 3
 ZCZC W04 30 L14 Assignment #4 : Top 10 Links this week
+ZCZC W05 90 L11 Assignment #1 : Read OSC10
+ZCZC W05 45 L12 Assignment #2 : update myrank.txt
+ZCZC W05 90 L13 Assignment #3 : Top 10 Links this week
+ZCZC W05 60 L14 Assignment #4 : Download WEEK05.tar.bz2.asc
+ZCZC W05 20 L15 Assignment #5 : Update mylog.txt
+ZCZC W05 20 L16 Assignment #6 : Sign SHA256SUM
