@@ -66,3 +66,9 @@ ZCZC W06 15 L15 Assignment #5 : chktoken JOLANTRU
 ZCZC W06 60 L16 Assignment #6 : Download Wo6.tar.bz2.asc
 ZCZC W06 15 L17 Assignment #7 : Update mylog.txt
 ZCZC W06 10 L18 Assignment #8 : Update myscript.sh
+ZCZC W07 90 L11 Assignment #1 : Read OSC10 (Chapter 6, 7, 8)
+ZCZC W07 30 L12 Assignment #2 : update myrank.txt
+ZCZC W07 60 L13 Assignment #3 : Top 10 links this week
+ZCZC W07 60 L14 Assignment #4 : Download WEEK07.tar.bz2.asc
+ZCZC W07 15 L15 Assignment #5 : Update mylog.txt
+ZCZC W07 15 L16 Assignment #6 : Make SHA256SUM and sign it
