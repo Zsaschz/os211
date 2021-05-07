@@ -72,3 +72,9 @@ ZCZC W07 60 L13 Assignment #3 : Top 10 links this week
 ZCZC W07 60 L14 Assignment #4 : Download WEEK07.tar.bz2.asc
 ZCZC W07 15 L15 Assignment #5 : Update mylog.txt
 ZCZC W07 15 L16 Assignment #6 : Make SHA256SUM and sign it
+ZCZC W08 90 L11 Assignment #1 : Read OSC10 (Chapter 5)
+ZCZC W08 60 L12 Assignment #2 : update myrank.txt & Top 10 Links this week
+ZCZC W08 60 L13 Assignment #3 : LFS
+ZCZC W08 60 L14 Assignment #4 : Resul/W08
+ZCZC W08 15 L15 Assignment #5 : Update mylog.txt
+ZCZC W08 15 L16 Assignment #6 : Make SHA256SUM and sign it
